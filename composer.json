@@ -1,0 +1,26 @@
+{
+    "name": "develodesign/module-paypalpayment",
+    "description": "",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "email": "luke@develodesign.co.uk",
+            "name": "Luke Collymore"
+        },
+        {
+            "email": "dmitry@develodesign.co.uk",
+            "name": "Dmitry Schegolikhin"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Develodesign\\PaypalPayment\\": ""
+        }
+    }
+}
