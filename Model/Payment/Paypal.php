@@ -6,7 +6,7 @@ namespace Develodesign\PaypalPayment\Model\Payment;
 class Paypal extends \Magento\Payment\Model\Method\AbstractMethod
 {
 
-    protected $_code = "paypal";
+    protected $_code = "vsf-paypal";
     protected $_isOffline = true;
 
     public function isAvailable(

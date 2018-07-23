@@ -1,6 +1,6 @@
 {
-    "name": "develodesign/module-paypalpayment",
-    "description": "",
+    "name": "develodesign/m2-paypal-payment",
+    "description": "The PayPal payment module for magento2.",
     "type": "magento2-module",
     "license": "MIT",
     "authors": [
