@@ -1,5 +1,3 @@
 # The PayPal payment module for magento2
 
-This module supported only 2.2.x magento versions.
-
-For this payment method using code `paypal`. It code we can use in Vue Storefront API settings.
+This API extension create custom PayPal paymnet method with code `vsf-paypal` your Magento 2 instance. It use `develodesign/m2-paypal-payment` composer module so you have to install it in your Magento `2.2.x` instance.
