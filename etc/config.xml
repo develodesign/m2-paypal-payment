@@ -2,14 +2,14 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
 	<default>
 		<payment>
-			<paypal>
+			<vsf-paypal>
 				<active>1</active>
 				<model>Develodesign\PaypalPayment\Model\Payment\Paypal</model>
 				<order_status>pending</order_status>
 				<title>Paypal</title>
 				<allowspecific>0</allowspecific>
 				<group>offline</group>
-			</paypal>
+			</vsf-paypal>
 		</payment>
 	</default>
 </config>
