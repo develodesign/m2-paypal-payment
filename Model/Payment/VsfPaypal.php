@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Develodesign\PaypalPayment\Model\Payment;
+namespace Develodesign\VsfPaypal\Model\Payment;
 
-class Paypal extends \Magento\Payment\Model\Method\AbstractMethod
+class VsfPaypal extends \Magento\Payment\Model\Method\AbstractMethod
 {
 
-    protected $_code = "vsf-paypal";
+    protected $_code = "vsfpaypal";
     protected $_isOffline = true;
 
     public function isAvailable(
