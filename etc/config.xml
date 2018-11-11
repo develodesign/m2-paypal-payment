@@ -4,9 +4,9 @@
 		<payment>
 			<vsfpaypal>
 				<active>1</active>
-				<model>Develodesign\PaypalPayment\Model\Payment\Paypal</model>
+				<model>Develodesign\VsfPaypal\Model\Payment\VsfPaypal</model>
 				<order_status>pending</order_status>
-				<title>Paypal</title>
+				<title>VsfPaypal</title>
 				<allowspecific>0</allowspecific>
 				<group>offline</group>
 			</vsfpaypal>
