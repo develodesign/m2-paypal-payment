@@ -5,6 +5,6 @@ This API extension create custom PayPal paymnet method with code `vsfpaypal` you
 ## Installation
 
 ```
-composer config repositories.divante vcs https://github.com/develodesign/m2-paypal-payment.git
+composer config repositories.develodesign vcs https://github.com/develodesign/m2-paypal-payment.git
 composer require develodesign/m2-paypal-payment:dev-master
 ```
