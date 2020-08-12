@@ -1,5 +1,6 @@
 
-# DON'T USE THIS MODULE !!! DEPRECATED !!! Now used out of the box Magento2 Paypal module as backend for VSF.
+# DEPRECATED!
+# Don't use this module! Now used out of the box Magento2 Paypal module as backend for VSF.
 
 # The PayPal payment module for magento2
 
